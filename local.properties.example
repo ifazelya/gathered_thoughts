@@ -1,0 +1,5 @@
+## Copy this file to local.properties and add your API key.
+## local.properties is gitignored — never commit your key.
+
+sdk.dir=/path/to/Android/sdk
+OPENAI_API_KEY=sk-your-key-here
